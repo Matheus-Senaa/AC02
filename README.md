@@ -16,8 +16,7 @@ Grupo:
 
 | Ferramenta | Link |
 | ------ | ------ |
-| GIT | [https://git-scm.com/download/win][PlDb] |
-| Github | [plugins/github/README.md][PlGh] |
+| GIT | https://git-scm.com/download/win |
 
 
 ### Development
