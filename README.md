@@ -5,12 +5,12 @@
 
 
 Grupo:
-    - Abraao Ylgner da Rocha Silva - 1600301
-    - Bruno Borges Furukawa - 1601320
-    - Diego João Gallego - 1601084
-    - Igor Gusmão Laur - 1601230
-    - Leonardo Laurino Serinhano - 1600925
-    - Lincoln Morais de Melo - 1601212
+- Abraao Ylgner da Rocha Silva - 1600301
+- Bruno Borges Furukawa - 1601320
+- Diego João Gallego - 1601084
+- Igor Gusmão Laur - 1601230
+- Leonardo Laurino Serinhano - 1600925
+- Lincoln Morais de Melo - 1601212
 
 ### Needs
 
